@@ -54,7 +54,7 @@ a:hover{
 }
 .h3 {
     text-align: left;
-    font-style: normal;color: lavender;
+    font-style: normal;color: #41B3A3;
 }
 
 .categories ul {
@@ -63,6 +63,9 @@ a:hover{
 .table style {
     width: 100%;
 
+}
+img {
+    radious: 2px;
 }
 
 
