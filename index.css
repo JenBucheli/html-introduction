@@ -19,13 +19,16 @@ a:visited{
 a:hover{
     color: purple;
 }
+a{
+    color:salmon;
+}
 
 .box-1{
    
     border-width: 5px; 
     border-style: dotted; 
     border-color:#41B3A;
-    background-color:#ECE8CB
+    background-color:#ECE8CB;
     padding: 20px;
     margin: 20px 0;
 }
