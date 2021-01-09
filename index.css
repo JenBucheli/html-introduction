@@ -1,6 +1,6 @@
 body{
     background-color: #E8F5EC;
-    color: #4A7858;
+    color: #41B3A3;
     font-family: sans-serif; font-size: 16px; font-weight: normal;
     line-height: 1.6em;
 
@@ -21,8 +21,8 @@ a:hover{
 }
 
 .box-1{
-    color: #41B3A3;
-    border-width: 5px; border-style: dotted; border-color:#ECE8CB;
+    color:#ECE8CB;
+    border-width: 5px; border-style: dotted; border-color:#41B3A3
 
     padding: 20px;
     margin: 20px 0;
