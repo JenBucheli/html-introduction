@@ -21,9 +21,8 @@ a:hover{
 }
 
 .box-1{
-    background-color: #41B3A3;
-    color: black;
-    border-width: 5px; border-style: dotted; border-color:#d16154;
+    color: #41B3A3;
+    border-width: 5px; border-style: dotted; border-color:#ECE8CB;
 
     padding: 20px;
     margin: 20px 0;
@@ -64,7 +63,7 @@ a:hover{
     width: 100%;
 
 }
-img {
+.img {
     border-radius: 30px
 }
 
