@@ -1,6 +1,6 @@
 body{
-    background-color: #D3F5DE;
-    color: lavender;
+    background-color: #E8F5EC;
+    color: #4A7858;
     font-family: sans-serif; font-size: 16px; font-weight: normal;
     line-height: 1.6em;
 
@@ -8,15 +8,16 @@ body{
 .container{
     width: 80%;
     margin: auto;
-}
-a:hover{
-    color: indianred;
+    
 }
 a:active{
     color: mediumseagreen;
 }
 a:visited{
     color: purple;
+}
+a:hover{
+    color: indianred;
 }
 
 .box-1{
